@@ -11,8 +11,10 @@
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
-    <link href="css/mdb.min.css" rel="stylesheet">
+    <!-- <link href="css/mdb.min.css" rel="stylesheet"> -->
     <link href="css/quiz.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -69,7 +71,7 @@
                 },
                 correctAnswer: "d"
             }
-            
+
         ];
 
         function buildQuiz() {

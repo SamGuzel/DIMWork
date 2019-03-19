@@ -1,0 +1,5 @@
+NavBar:
+: Page on = Yellow
+: Navbar shadow Gone
+
+

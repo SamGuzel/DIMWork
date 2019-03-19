@@ -32,15 +32,15 @@
                     <div class="row wow fadeIn container">
 
                         <!--Grid column-->
-                        <div class="quiz-container">
                         <div id="quiz"></div>
+                        <div class="quiz-container center">
                         <button id="previous">Previous Question</button>
                         <button id="next">Next Question</button>
                         <button id="submit">Submit Quiz</button>
                         <div id="results"></div>
                         </div>
-                            
-                           
+
+
 
                         </div>
                         <!--Grid column-->
@@ -51,7 +51,7 @@
                 </div>
                 <!-- Content -->
 </div>
-        
+
         <!-- Full Page Intro -->
 
 <script>
@@ -95,7 +95,7 @@
                 },
                 correctAnswer: "a"
             }
-            
+
         ];
 
         function buildQuiz() {
